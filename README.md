@@ -1,11 +1,14 @@
-<h1 align="left">Projet Unity 3D / Découvertes des animations, des mouvements, des gameObjects, des scenes, des scripts et l'HUD</h1>
+# Projet Unity 3D
 
-<h3 align="left">Installation : pour Run l'application suivre l'étape suivante :  
+Découvertes des animations, des mouvements, des gameObjects, des scenes, des scripts et l'HUD
 
-  - créer un projet Unity 3D puis importer mes fichiers GitHub
-</h3>
+## Démarrer
 
-<h3 align="left">Langage :</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-</p>
+Le projet a été créé sous Unity Hub, pour le démarrer suivre les étapes suivantes.
+
+- Créer un projet Unity 3D puis importer mes fichiers GitHub (cloner)
+
+## Sources & Outils
+
+- <a href="https://unity.com/fr" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/> </a>
+- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
