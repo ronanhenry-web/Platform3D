@@ -1,14 +1,14 @@
-# Projet Platform 3D
+# Platform 3D Project
 
-Découvertes des animations, des mouvements, des gameObjects, des scenes, des scripts et l'HUD
+Discovering animations, movements, gameObjects, scenes, scripts, and HUD
 
-## Démarrer
+## Getting Started
 
-Le projet a été créé sous Unity Hub, pour le démarrer suivre les étapes suivantes.
+The project was created using Unity Hub. To get it running, follow these steps :
 
-- Créer un projet Unity 3D puis importer mes fichiers GitHub (cloner)
+- Create a Unity 3D project, then import the files from my GitHub (clone the repository)
 
-## Sources & Outils
+## Sources & Tools
 
 <a href="https://unity.com/fr" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/> </a>
 
